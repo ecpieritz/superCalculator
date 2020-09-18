@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;500;700&family=Teko:wght@700&display=swap');
+
+:root{
+   --background-color: #c3cad4;
+   --input-background: #a7b0bd;
+   --text-color: #52647e;
+   --title-color: #1f2f46;
+}
+
+body{
+   background-color: var(--background-color);
+   color: var(--text-color);
+   font-family: 'Roboto Mono', monospace;;
+   font-weight: 500;
+}
+
+h1{
+   font-size: 5vw;
+}
+
+h2{
+   font-size: 3vw;
+}
+
+h1,h2{
+   color: var(--title-color);
+   text-align: center;
+   margin-top: 5vw;
+   margin-bottom: 1vw;
+   font-family: 'Teko', sans-serif;
+   font-weight: 700;
+}
+
+#numbers{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+}
+
+#numbers p{
+   margin-left: 2vw;
+   margin-bottom: 0.5vw;
+}
+
+input{
+   background-color: var(--input-background);
+   width: 40vw;
+   height: 3vw;
+   border: 2px solid var(--text-color);
+   border-radius: 1vw;
+   margin: auto;
+   margin-top: 1vw;
+   margin-right: 1vw;
+   padding-left: 2vw;
+}
+
+#calculations{
+   display: grid;
+   grid-template-columns: repeat(3, 25vw);
+   justify-content: center;
+}
+
+#calculations div{
+   background-color: var(--input-background);
+   border: 2px solid var(--text-color);
+   border-radius: 1vw;
+   margin: 1vw;
+   height: 7vw;
+}
+
+#calculations div p{
+   margin-left: 1vw;
+   margin-top: 1vw;
+}
+
+#calculations div span{
+   margin-left: 3vw;
+   margin-top: 1vw;
+}
+
