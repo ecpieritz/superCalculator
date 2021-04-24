@@ -3,7 +3,7 @@
 
 ## 🖥 Preview
 <p align = "center">
-  <img src = "https://scontent.fbnu2-1.fna.fbcdn.net/v/t1.0-9/119828931_1734297673391243_4121738869924066236_o.jpg?_nc_cat=106&_nc_sid=0debeb&_nc_eui2=AeHjxtXylCS9bDOBPxWRsyCgAtLRfp4bPoQC0tF-nhs-hBzebUwzxUiWHOBtoOwLRLLu8JtJ0kN8mbKorH9tLssI&_nc_ohc=VcvHsI1QSwoAX8YxRAK&_nc_ht=scontent.fbnu2-1.fna&oh=af10085fde3fdd598a7e970f88df1700&oe=5F8A4645" width = "700">
+  <img src = "https://github.com/ecpieritz/superCalculator/blob/master/super-calculator-print.jpg?raw=true" width = "800">
 </p>
 
 ---
