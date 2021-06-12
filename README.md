@@ -33,7 +33,7 @@ Exercise the following concepts:
 
 ## 🚀 How to execute the project
 #### Clone the repository
-git clone https://github.com/EPieritz/superCalculator.git
+git clone https://github.com/ecpieritz/superCalculator.git
 
 #### Enter directory
 `cd superCalculator`
